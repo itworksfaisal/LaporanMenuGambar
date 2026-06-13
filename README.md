@@ -1,4 +1,4 @@
-# LaporanMenuGambar
+# LaporanMenuGambar by @amir.faisalj
 Skill ini mengotomatisasi laporan Kegiatan Harian SIPGN dari gambar poster menu MBG.  
 Alurnya dibuat untuk kerja cepat, presisi, dan minim bolak-balik manual.
 
