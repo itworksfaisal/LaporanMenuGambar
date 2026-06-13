@@ -1,0 +1,7 @@
+interface:
+  display_name: "Menu Harian Dari Gambar"
+  short_description: "Login SIPGN lalu isi laporan menu"
+  default_prompt: "Use $menuharianlogingambar to login to SIPGN and fill a daily menu report from a poster image."
+
+policy:
+  allow_implicit_invocation: true
