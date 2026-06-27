@@ -36,7 +36,7 @@ Catatan:
 ## Halaman Tujuan
 
 - URL kerja:
-https://sipgn-sipsmo-web.bgn.go.id/AppsMitraKerjasama/GiatHarian/6a46b7b7-5ef4-4707-9f44-557ea65d0734
+https://sipgn-sipsmo-web.bgn.go.id/AppsMitraKerjasama/GiatHarian/
 
 ## Workflow Utama
 
